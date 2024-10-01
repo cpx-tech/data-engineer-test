@@ -1,0 +1,1001 @@
+ClienteID,Nome,Idade,Localizacao,PreferenciaProduto
+1,Francisco Cavalcanti,32,Barros Verde,Eletrodomésticos
+2,João Vitor Sampaio,73,Guerra do Sul,Eletrodomésticos
+3,Mirella Porto,41,Farias das Pedras,Eletrodomésticos
+4,Maria Alice Moraes,65,Teixeira do Amparo,Eletrodomésticos
+5,Ravi Lopes,50,Cunha,Eletrônicos
+6,Isabel Oliveira,27,Oliveira da Prata,Livros
+7,Rafaela da Mata,31,Oliveira,Eletrônicos
+8,Maitê Cavalcanti,27,Costela,Eletrônicos
+9,Thomas Aragão,35,Fogaça de Freitas,Eletrônicos
+10,Sra. Nina Mendes,26,Pimenta das Pedras,Eletrônicos
+11,Isaac Moura,52,Santos do Oeste,Jogos
+12,Juan Azevedo,36,Correia,Roupas
+13,Vitor Hugo Barbosa,70,da Rosa,Jogos
+14,Isabel Pacheco,66,Cirino,Roupas
+15,Dra. Maria Sophia Ribeiro,65,Vieira,Eletrônicos
+16,Bernardo Sousa,51,Rios de Minas,Roupas
+17,Murilo Camargo,70,da Conceição,Eletrodomésticos
+18,Luiz Gustavo Vieira,42,da Luz da Praia,Eletrônicos
+19,Matheus Viana,31,Andrade de Almeida,Livros
+20,Maria Fernanda Cirino,61,Farias de Minas,Jogos
+21,Olívia Costa,33,Barbosa da Mata,Jogos
+22,Sarah Cassiano,69,Duarte de Goiás,Jogos
+23,Pedro Miguel Moraes,72,Martins do Amparo,Jogos
+24,André Gonçalves,19,Nogueira,Eletrônicos
+25,Dra. Melina Farias,47,Farias,Roupas
+26,Sra. Esther Sousa,27,Oliveira da Mata,Roupas
+27,Melissa Pinto,30,Dias da Praia,Eletrodomésticos
+28,Eloah Nascimento,29,Carvalho,Roupas
+29,Clarice Castro,78,Moreira Alegre,Livros
+30,Davi Miguel Cassiano,29,Nogueira de Martins,Roupas
+31,Sarah Farias,68,Nunes Grande,Livros
+32,Sr. Felipe Moraes,63,Campos de Minas,Livros
+33,Sra. Sofia Pinto,55,Pires Verde,Jogos
+34,Ester da Rocha,35,Nogueira,Roupas
+35,Arthur Miguel Ribeiro,46,Cavalcante,Livros
+36,Igor da Mata,75,Peixoto,Jogos
+37,Augusto Lopes,61,Gonçalves,Jogos
+38,Ana Barros,30,Abreu de Rocha,Roupas
+39,Gael Ribeiro,40,Rodrigues de Carvalho,Jogos
+40,Dra. Isis Sales,74,Moraes,Eletrônicos
+41,Benício Camargo,59,Costa,Eletrodomésticos
+42,Matteo Costela,24,Caldeira,Jogos
+43,Ágatha Lima,74,Costa,Jogos
+44,Brenda Sampaio,21,Peixoto,Eletrônicos
+45,Olivia Gomes,54,Alves,Roupas
+46,Antonella Pacheco,44,Almeida das Pedras,Eletrodomésticos
+47,Stephany Abreu,30,Nascimento,Livros
+48,Sra. Jade da Mata,45,Rezende da Serra,Eletrodomésticos
+49,Kamilly Rocha,77,da Mata,Roupas
+50,Erick da Paz,20,Cassiano do Galho,Roupas
+51,Natália Rocha,63,Pereira,Eletrodomésticos
+52,Erick Nogueira,45,Moreira do Amparo,Eletrodomésticos
+53,Beatriz Martins,69,da Mata Grande,Livros
+54,Felipe Alves,30,da Paz,Jogos
+55,Daniel Azevedo,77,da Conceição,Eletrônicos
+56,Emanuel Sá,35,da Paz da Prata,Jogos
+57,Srta. Natália Montenegro,64,Ribeiro,Livros
+58,Marcela Leão,23,Castro de da Rocha,Roupas
+59,Bárbara Carvalho,34,Viana do Galho,Jogos
+60,Milena Albuquerque,19,Barbosa do Campo,Jogos
+61,Maria Laura Alves,56,Pinto de Goiás,Livros
+62,Dra. Esther Aragão,53,Leão,Livros
+63,Marcos Vinicius Cardoso,48,Cavalcante Verde,Livros
+64,Giovanna Duarte,42,Porto de Albuquerque,Livros
+65,Luiza Barbosa,73,Marques,Jogos
+66,Danilo Moreira,73,da Conceição,Eletrônicos
+67,Hellena Ferreira,50,Garcia,Eletrodomésticos
+68,Davi Lucca Cardoso,30,Garcia,Eletrodomésticos
+69,Thiago Moura,23,da Costa do Amparo,Jogos
+70,Nicolas Almeida,37,Aparecida da Prata,Jogos
+71,Alana Cirino,60,das Neves da Praia,Livros
+72,Dr. Ian Lopes,66,Sampaio,Eletrodomésticos
+73,Ana Vitória Moraes,23,Rios do Galho,Eletrodomésticos
+74,Emanuelly Porto,41,Aragão do Oeste,Jogos
+75,Theo Cavalcante,63,Sales,Eletrônicos
+76,Laura da Luz,72,Mendonça,Eletrônicos
+77,Anthony Gabriel da Rosa,63,da Mota,Eletrodomésticos
+78,Gael Montenegro,50,da Rocha de Sampaio,Eletrodomésticos
+79,Ryan Mendonça,46,Brito,Eletrodomésticos
+80,Sra. Maria Alice Montenegro,62,da Mata,Livros
+81,Emanuel Costa,22,Gonçalves Verde,Jogos
+82,Enzo Caldeira,73,Vargas do Oeste,Eletrodomésticos
+83,Murilo Mendonça,32,Mendes do Sul,Roupas
+84,Ian da Conceição,32,Novais,Eletrônicos
+85,Vinícius Cardoso,32,Santos,Livros
+86,Sra. Juliana Sampaio,35,Martins,Livros
+87,Renan Costa,37,da Rosa,Eletrônicos
+88,Lucas Rocha,31,Cassiano,Roupas
+89,Maria Júlia Nogueira,22,Almeida das Flores,Livros
+90,Dra. Ayla Gomes,58,Oliveira da Serra,Roupas
+91,Maria Helena Marques,27,da Mata,Eletrodomésticos
+92,Letícia da Mata,27,Jesus,Roupas
+93,Cauê Cirino,46,Gomes do Campo,Roupas
+94,Rodrigo Nogueira,49,Correia,Eletrodomésticos
+95,Luiz Miguel Caldeira,27,Vieira,Livros
+96,Diego Teixeira,43,Moraes de Leão,Livros
+97,Maria Julia Araújo,52,da Rosa,Eletrônicos
+98,Maria Liz Monteiro,46,da Rosa,Jogos
+99,Maria Flor Ferreira,74,Aparecida,Eletrodomésticos
+100,Jade Ramos,35,da Costa da Mata,Eletrônicos
+101,Dra. Jade da Mota,31,Garcia,Livros
+102,Ana Cecília Cirino,62,Ramos das Pedras,Eletrodomésticos
+103,Erick Costa,43,Barbosa do Amparo,Eletrodomésticos
+104,Marina Sampaio,67,Pastor da Prata,Eletrodomésticos
+105,Sra. Isadora Rezende,59,Cavalcante da Praia,Eletrodomésticos
+106,Dra. Fernanda Araújo,29,da Costa das Pedras,Livros
+107,Theodoro Melo,63,Campos,Roupas
+108,Isabella Rios,35,Melo do Campo,Eletrodomésticos
+109,Ana Carolina Andrade,20,Nascimento,Livros
+110,Sr. Davi Teixeira,71,Aragão Alegre,Jogos
+111,Antônio Guerra,36,Andrade,Livros
+112,Luiz Miguel Rios,36,Câmara de Abreu,Eletrônicos
+113,Noah Lopes,48,Nascimento,Livros
+114,Gael Henrique Martins,38,Jesus,Eletrônicos
+115,Davi Lucas Mendes,61,Jesus do Norte,Eletrodomésticos
+116,Henry Ferreira,62,Lima de Goiás,Roupas
+117,Diego Martins,46,Vieira,Roupas
+118,Joaquim Martins,28,Almeida,Livros
+119,Dr. Davi Miguel Novais,23,Garcia do Oeste,Roupas
+120,Bárbara Nogueira,28,Pacheco,Livros
+121,Ravi Lucca Carvalho,67,Lima da Serra,Jogos
+122,Marcelo Vasconcelos,35,Nogueira de Sousa,Roupas
+123,Luiz Felipe Abreu,55,Pires,Eletrônicos
+124,Léo Montenegro,61,Sales,Eletrônicos
+125,Brayan Macedo,51,Santos da Serra,Eletrônicos
+126,Erick Correia,76,Gonçalves,Jogos
+127,Nathan Martins,24,Castro de Lopes,Livros
+128,Maria Aparecida,76,Porto,Jogos
+129,Eloá Sales,65,Vieira do Galho,Eletrodomésticos
+130,Anna Liz Barbosa,61,Araújo,Jogos
+131,Dra. Larissa da Costa,71,Sá,Eletrodomésticos
+132,Gabriel Porto,55,da Paz,Roupas
+133,Emilly Rocha,72,Rocha Grande,Livros
+134,Dr. Nathan Pereira,50,Siqueira de da Cruz,Roupas
+135,Ana Carolina Almeida,40,Leão Grande,Roupas
+136,Matheus Nunes,49,Guerra da Prata,Livros
+137,Maitê Cavalcanti,57,Dias do Norte,Jogos
+138,Dr. Emanuel Aragão,26,da Costa,Livros
+139,Melina Cunha,43,Cardoso,Eletrônicos
+140,Sra. Maria Eduarda Novais,73,Aparecida do Norte,Roupas
+141,Isabela Lima,45,Rezende de Goiás,Livros
+142,Davi Luiz Sousa,63,Mendonça,Eletrodomésticos
+143,José Pedro Mendes,72,Marques do Amparo,Roupas
+144,Matteo Albuquerque,59,Macedo,Eletrônicos
+145,Thales Vieira,71,Novaes do Campo,Roupas
+146,Sr. Dom Araújo,22,Câmara,Jogos
+147,Carlos Eduardo Silva,69,Pimenta,Eletrônicos
+148,Olívia Vasconcelos,20,Borges de Moreira,Jogos
+149,Srta. Rebeca Campos,79,Andrade da Prata,Roupas
+150,Sophie Sampaio,79,Nascimento,Eletrônicos
+151,Maria Liz Sales,54,Jesus,Eletrodomésticos
+152,Emanuella Abreu,26,Melo,Jogos
+153,Sra. Carolina Duarte,39,Leão do Sul,Jogos
+154,Sr. Eduardo Rezende,23,Correia,Eletrodomésticos
+155,Laís Almeida,18,da Luz,Livros
+156,Bernardo Moreira,74,Borges das Pedras,Jogos
+157,Dra. Lavínia Fogaça,28,Barbosa,Eletrodomésticos
+158,Lara Moraes,29,Fonseca,Eletrônicos
+159,Olivia Moraes,29,Rocha do Norte,Livros
+160,Raul Montenegro,50,Silveira,Eletrônicos
+161,Sra. Mirella Câmara,34,Santos,Eletrônicos
+162,João Felipe Porto,51,Leão,Jogos
+163,Agatha da Cunha,41,Teixeira,Jogos
+164,Davi Lucca Novais,29,Aparecida,Jogos
+165,Emanuella Camargo,37,da Costa de Ferreira,Livros
+166,Rafael da Conceição,73,da Costa da Prata,Livros
+167,Ana Costela,55,Fogaça do Norte,Livros
+168,Mathias Carvalho,21,Cardoso,Eletrodomésticos
+169,Thiago Cunha,38,Peixoto,Eletrônicos
+170,Emanuelly Pacheco,59,Moreira Alegre,Eletrodomésticos
+171,Thiago Jesus,41,da Cruz Verde,Eletrônicos
+172,Ágatha da Mota,38,Gomes,Roupas
+173,José Miguel Nunes,29,Cardoso,Roupas
+174,Emanuel Sampaio,78,Almeida das Pedras,Eletrodomésticos
+175,Luiz Gustavo Teixeira,75,Jesus dos Dourados,Roupas
+176,Sr. Asafe Nogueira,74,da Cunha,Eletrodomésticos
+177,Isis Viana,26,Barros da Praia,Livros
+178,Fernando Pimenta,38,Cavalcante,Jogos
+179,Sra. Lara Cavalcante,70,Caldeira de Carvalho,Livros
+180,Felipe Santos,53,Fogaça da Praia,Roupas
+181,Sr. Luiz Henrique Cassiano,32,Viana das Flores,Livros
+182,Lavínia da Paz,32,Casa Grande,Eletrodomésticos
+183,Luigi Brito,29,Cavalcanti Paulista,Jogos
+184,Maria Eduarda Santos,38,Cunha Paulista,Jogos
+185,Ana Clara Dias,61,da Conceição,Eletrônicos
+186,Manuella Azevedo,43,Barbosa,Jogos
+187,Daniel Sampaio,68,Macedo,Roupas
+188,Felipe Duarte,19,Barros,Eletrodomésticos
+189,Eloah da Luz,32,Novais do Norte,Eletrônicos
+190,Fernanda Sales,70,Cavalcanti dos Dourados,Roupas
+191,Ester Cirino,44,Oliveira,Eletrônicos
+192,Srta. Mariah Souza,24,Melo das Pedras,Roupas
+193,Dra. Maria Laura Sampaio,31,Martins da Serra,Jogos
+194,Ágatha Pimenta,47,da Mota,Roupas
+195,Ana Liz Vasconcelos,70,da Rocha de Pereira,Roupas
+196,Vinícius Abreu,19,Viana,Eletrônicos
+197,Dr. João Pedro Brito,62,da Mata Paulista,Roupas
+198,Alexandre Fonseca,24,Campos,Eletrônicos
+199,Julia Jesus,32,da Costa,Eletrodomésticos
+200,Otávio Alves,18,Jesus,Eletrônicos
+201,Pedro Lucas Pires,59,Peixoto da Praia,Livros
+202,Vitor Hugo Peixoto,25,Fonseca,Livros
+203,Zoe Moraes,57,Rocha,Roupas
+204,Bella Castro,41,Cavalcanti de Dias,Eletrônicos
+205,Henrique Sousa,28,Rezende,Roupas
+206,Pietro Gomes,41,da Cruz Alegre,Roupas
+207,Aylla Sousa,55,Araújo das Pedras,Eletrônicos
+208,Brenda Cavalcante,48,Moraes,Eletrônicos
+209,Caroline Nascimento,58,Oliveira,Eletrodomésticos
+210,Sophia Barbosa,79,Siqueira de Guerra,Eletrodomésticos
+211,Milena Alves,73,Silva,Eletrodomésticos
+212,Calebe da Mota,43,Castro do Galho,Eletrônicos
+213,Maria Isis Alves,57,Pacheco da Mata,Eletrodomésticos
+214,Srta. Cecilia Lima,65,Pereira da Serra,Eletrônicos
+215,Vitor Hugo Rocha,68,Fonseca de Sá,Livros
+216,Dr. Thomas Andrade,24,Caldeira da Prata,Jogos
+217,Srta. Mariana Lima,28,Camargo,Eletrônicos
+218,Isis Silveira,42,Cavalcanti,Eletrodomésticos
+219,Srta. Hellena Rocha,77,da Costa,Eletrônicos
+220,Léo Cassiano,73,Novaes,Jogos
+221,Davi Lucca Freitas,41,Mendonça de Goiás,Jogos
+222,Nicole Fernandes,20,Moreira da Prata,Livros
+223,Benjamin Caldeira,28,Borges de Melo,Livros
+224,Lunna da Rosa,32,Novaes,Eletrônicos
+225,Antony Pereira,39,Vieira das Pedras,Eletrodomésticos
+226,Luiz Fernando Aragão,54,Vargas,Eletrônicos
+227,Bárbara da Conceição,18,da Costa de Minas,Roupas
+228,Maria Alice Oliveira,52,Gomes da Serra,Eletrodomésticos
+229,Brayan Aragão,34,Gomes da Prata,Roupas
+230,Maysa Andrade,33,Cavalcante de Sá,Livros
+231,Antônio Aragão,80,Gonçalves de Goiás,Roupas
+232,Davi Lucca Pastor,77,Costa da Prata,Jogos
+233,Dr. Pedro Henrique Fogaça,42,Dias Grande,Jogos
+234,Maria Luiza Abreu,22,Borges,Livros
+235,Sra. Maria Helena Cavalcanti,43,Freitas,Eletrônicos
+236,Brenda da Mota,69,Guerra,Eletrodomésticos
+237,Catarina da Mota,44,Costa,Livros
+238,Bianca Carvalho,26,Duarte,Roupas
+239,Antonella Rocha,62,Siqueira de Casa Grande,Livros
+240,Daniela Araújo,68,Pimenta,Eletrônicos
+241,Cecilia Melo,29,Andrade do Oeste,Eletrodomésticos
+242,Luara Mendes,70,Pacheco Paulista,Eletrodomésticos
+243,Raquel Cavalcante,23,das Neves da Prata,Eletrônicos
+244,Cecília Abreu,32,Lopes,Roupas
+245,Ágatha Freitas,18,Brito,Livros
+246,Bruna Novais,60,Nascimento de Minas,Jogos
+247,Maria Vitória Ferreira,35,Brito,Livros
+248,Jade Novaes,77,Sousa,Jogos
+249,Elisa Moreira,30,Andrade das Flores,Eletrônicos
+250,Igor da Conceição,41,Camargo das Flores,Jogos
+251,Maria Cecília Barros,75,Rodrigues do Campo,Livros
+252,Rebeca Farias,40,Lopes de Guerra,Eletrônicos
+253,Rafaela Cavalcanti,19,Barbosa,Livros
+254,Anthony Gabriel Cavalcante,62,Cardoso,Roupas
+255,Maria Helena Macedo,58,Lima da Serra,Livros
+256,Augusto Camargo,65,Mendes do Oeste,Roupas
+257,Thales Rios,24,Viana,Jogos
+258,Dr. Apollo da Mota,34,da Luz das Flores,Eletrodomésticos
+259,Júlia Pires,78,Siqueira de Minas,Eletrônicos
+260,Théo Melo,55,da Paz de Moreira,Eletrodomésticos
+261,Isaque Machado,74,Pinto,Eletrodomésticos
+262,Fernando Garcia,52,Araújo de Novaes,Roupas
+263,Maysa Lima,49,Camargo de Leão,Roupas
+264,Sofia Almeida,55,da Mata Grande,Roupas
+265,Arthur Miguel Santos,37,Silva,Eletrônicos
+266,Beatriz Gonçalves,46,Sampaio,Livros
+267,Luara Silva,37,da Cunha do Amparo,Roupas
+268,Ester Azevedo,56,Moura,Eletrônicos
+269,Maria Vitória Cassiano,59,da Costa,Eletrodomésticos
+270,Gabriela Pires,77,Macedo de Minas,Roupas
+271,Dra. Sara Farias,57,Nunes de Vargas,Livros
+272,Sra. Vitória Machado,59,Mendonça,Jogos
+273,Yasmin Carvalho,22,Santos das Pedras,Eletrônicos
+274,Enzo Gabriel Silveira,45,Fernandes da Mata,Jogos
+275,Mariah Novais,80,da Mota Verde,Livros
+276,Pietro da Costa,44,da Cunha da Praia,Livros
+277,Maria Julia Lima,72,Andrade do Oeste,Roupas
+278,Isabel Santos,60,Cunha Paulista,Eletrônicos
+279,Dr. Pedro Viana,44,Macedo,Eletrônicos
+280,Allana Câmara,22,Rios do Norte,Jogos
+281,Marina Marques,20,Cardoso da Praia,Roupas
+282,Eduardo Viana,65,Monteiro,Roupas
+283,Stephany Cunha,72,Nogueira da Praia,Roupas
+284,Sr. Cauê Silveira,71,da Rocha,Jogos
+285,Sr. Luiz Gustavo Lima,44,da Mota,Livros
+286,Anthony Farias,67,Vasconcelos do Amparo,Jogos
+287,Alice Sá,43,Rios,Eletrodomésticos
+288,Juliana Cardoso,72,Porto de Rios,Roupas
+289,Dra. Luana Cardoso,67,Aragão,Eletrodomésticos
+290,Francisco Teixeira,26,Dias das Flores,Eletrônicos
+291,Antonella Lima,33,Cardoso da Mata,Eletrônicos
+292,Henry Gabriel Sampaio,18,da Mota das Flores,Roupas
+293,Sophie Rezende,80,Cirino do Amparo,Livros
+294,Dra. Rebeca Duarte,35,Ramos do Amparo,Roupas
+295,Samuel Nascimento,28,Vieira Verde,Jogos
+296,Yasmin da Costa,63,Pacheco,Livros
+297,Isadora Azevedo,74,Rezende,Livros
+298,Maria Helena Rocha,32,Teixeira,Jogos
+299,Daniela Sampaio,72,Aragão dos Dourados,Jogos
+300,Maria Liz Aragão,27,Caldeira do Oeste,Eletrônicos
+301,Vitor Gabriel da Costa,72,Pacheco das Pedras,Eletrodomésticos
+302,Caleb Santos,28,Casa Grande,Eletrônicos
+303,Thiago Borges,59,Guerra,Eletrodomésticos
+304,Cecília Cunha,38,da Rocha,Eletrodomésticos
+305,Srta. Stephany Fernandes,34,da Rosa das Pedras,Jogos
+306,Dr. Vitor Hugo Santos,67,da Mota,Livros
+307,Dra. Ana Lívia Guerra,58,da Conceição,Jogos
+308,Eduarda Ferreira,41,Rezende,Eletrônicos
+309,Mirella Mendonça,56,Carvalho,Jogos
+310,Bruna da Cunha,70,da Luz,Eletrônicos
+311,Dr. Bento Sousa,65,Siqueira Grande,Eletrodomésticos
+312,Lucas Gabriel Pereira,19,Santos,Eletrodomésticos
+313,Stephany Fogaça,46,Vargas de da Rosa,Eletrônicos
+314,Dr. Marcos Vinicius Novaes,57,Novaes das Flores,Eletrônicos
+315,Sr. Ryan Monteiro,58,Rodrigues,Eletrodomésticos
+316,Sr. Arthur Miguel Moraes,74,Borges do Amparo,Eletrodomésticos
+317,Dr. Arthur Teixeira,38,Cassiano de Teixeira,Livros
+318,Dra. Alícia Novais,56,Gonçalves,Eletrônicos
+319,Alana Vasconcelos,68,Araújo do Norte,Roupas
+320,Lívia Vieira,76,Almeida dos Dourados,Eletrônicos
+321,Rodrigo da Costa,21,Melo do Amparo,Eletrônicos
+322,Rodrigo da Costa,61,Nogueira de Pastor,Jogos
+323,Arthur Gabriel Campos,43,Nogueira Alegre,Jogos
+324,Dra. Carolina Nogueira,26,da Costa,Eletrodomésticos
+325,Sr. Pedro Henrique Lima,58,Cassiano da Prata,Eletrônicos
+326,Hadassa Abreu,74,Guerra,Eletrônicos
+327,Théo Campos,63,da Rocha de Borges,Jogos
+328,Isabela Campos,18,Nunes da Praia,Livros
+329,Ester da Costa,31,Correia,Roupas
+330,Isaque Aparecida,25,Pacheco de Minas,Eletrodomésticos
+331,Camila Castro,21,da Cruz de Viana,Eletrônicos
+332,Diego Fogaça,69,Machado da Praia,Eletrônicos
+333,Thiago da Conceição,27,Leão,Livros
+334,Stella da Cunha,66,Fonseca,Livros
+335,Davi Lucas Nogueira,26,Rocha,Eletrodomésticos
+336,Dr. João Felipe Pinto,33,Sousa,Roupas
+337,Sr. Marcelo Pires,68,Pinto,Livros
+338,Isabel Andrade,73,Guerra do Norte,Roupas
+339,Augusto Silveira,72,Ferreira da Praia,Jogos
+340,Davi Lucas Monteiro,76,Moraes,Roupas
+341,Maria Luiza Araújo,32,Garcia do Norte,Eletrodomésticos
+342,Liam Caldeira,49,Ramos do Norte,Jogos
+343,Olivia Casa Grande,33,Pereira,Eletrônicos
+344,Enzo da Mata,35,Nascimento,Livros
+345,Ágatha da Rosa,36,Almeida,Jogos
+346,Sr. Henrique Nogueira,62,Martins,Eletrodomésticos
+347,Maria Flor Nogueira,38,Novais das Pedras,Eletrônicos
+348,Maria Clara Lopes,45,Moura do Sul,Livros
+349,Laís Freitas,30,Gomes,Livros
+350,Srta. Emanuella da Paz,40,Andrade Paulista,Livros
+351,Sr. Yago Cavalcante,67,Moura,Livros
+352,Olívia Marques,52,Câmara de Melo,Eletrônicos
+353,Mathias Pastor,68,Caldeira,Eletrônicos
+354,Maria Eduarda Rios,31,Peixoto,Roupas
+355,Felipe Cavalcanti,47,Barbosa,Eletrônicos
+356,Thomas Viana,77,da Mata do Amparo,Eletrônicos
+357,João Felipe Novais,28,Lopes das Flores,Jogos
+358,Daniel Cardoso,62,Santos do Sul,Eletrodomésticos
+359,Ester da Cruz,44,Rodrigues do Norte,Jogos
+360,Luana Cassiano,31,da Paz,Roupas
+361,Ana Luiza Nunes,53,Ferreira de Goiás,Eletrônicos
+362,Bella Moraes,30,Cavalcanti do Campo,Eletrodomésticos
+363,Rael da Mota,28,Sampaio Verde,Eletrônicos
+364,Alexia Pires,39,da Luz,Eletrônicos
+365,Joana Sales,42,da Mota,Livros
+366,Kamilly Rodrigues,42,Ribeiro de Freitas,Eletrodomésticos
+367,Samuel Costa,73,Lopes de Nunes,Livros
+368,Eduarda Araújo,64,Pimenta,Eletrônicos
+369,Théo Correia,72,Rezende Grande,Eletrônicos
+370,Luan Duarte,75,Alves,Roupas
+371,Aylla Novaes,20,da Conceição,Roupas
+372,Juliana Martins,29,Dias,Jogos
+373,Alícia Monteiro,77,Aparecida,Roupas
+374,Isaque Pires,70,Viana de Jesus,Roupas
+375,Luiz Gustavo Alves,47,Gonçalves Verde,Eletrodomésticos
+376,Mirella Sá,55,Nunes,Eletrônicos
+377,Raquel Cunha,35,Lima Paulista,Eletrodomésticos
+378,Bruna Dias,25,da Cunha do Sul,Eletrodomésticos
+379,Luana Brito,78,Leão de Nogueira,Livros
+380,Maria Luiza Vargas,74,Cavalcante de Goiás,Eletrônicos
+381,Ana Nascimento,23,Costela,Eletrônicos
+382,Yago Correia,19,Lopes,Jogos
+383,Dr. Noah Pires,25,Duarte,Jogos
+384,Raquel Melo,57,Barros,Jogos
+385,Yuri Farias,32,Jesus,Roupas
+386,Yago da Cruz,65,Carvalho de da Mata,Livros
+387,Dante Novais,62,Costa de Siqueira,Eletrodomésticos
+388,Letícia da Cunha,47,da Cruz,Eletrodomésticos
+389,Luiza Macedo,55,Araújo de da Cruz,Livros
+390,Sr. Juan Garcia,37,Pacheco Verde,Eletrodomésticos
+391,Benicio Pires,25,Cavalcante de Vasconcelos,Jogos
+392,Arthur Gabriel Borges,66,Rocha dos Dourados,Eletrônicos
+393,Srta. Mariana da Rocha,42,Oliveira dos Dourados,Livros
+394,Cecilia Nunes,46,Martins Grande,Eletrodomésticos
+395,Renan das Neves,62,Fernandes,Livros
+396,Ágatha Martins,56,da Paz,Eletrônicos
+397,Maria Cecília Correia,45,Novaes,Eletrônicos
+398,Sr. Luiz Gustavo Duarte,26,da Rocha do Sul,Livros
+399,Maria Isis Pires,20,Vasconcelos de Ribeiro,Jogos
+400,Luna Siqueira,42,Montenegro,Jogos
+401,Murilo Lima,61,Machado,Eletrodomésticos
+402,Laís Costela,36,Rocha,Eletrodomésticos
+403,Emanuelly Nunes,67,Siqueira da Mata,Eletrodomésticos
+404,Lucas da Paz,64,Machado do Sul,Eletrodomésticos
+405,João Felipe Farias,55,Carvalho Alegre,Eletrônicos
+406,Levi Freitas,49,Pimenta das Flores,Eletrodomésticos
+407,Yan Borges,64,Cavalcante,Roupas
+408,Léo Ramos,62,Araújo das Flores,Eletrônicos
+409,Sra. Catarina Camargo,28,Fogaça de das Neves,Livros
+410,João Guilherme Pimenta,59,Fogaça Grande,Jogos
+411,Zoe Casa Grande,64,Rezende de Ramos,Eletrônicos
+412,Benjamim Moreira,80,Mendes,Eletrodomésticos
+413,Dr. Kaique Rodrigues,65,Pereira de Minas,Eletrônicos
+414,Matteo da Mota,23,Aparecida,Roupas
+415,Srta. Ágatha Albuquerque,69,Cavalcante,Roupas
+416,Caroline Mendes,40,Borges do Campo,Jogos
+417,Guilherme Abreu,60,Lopes Alegre,Livros
+418,Ana Cecília Rodrigues,78,Rios,Roupas
+419,Dra. Maria Fernanda Moura,54,da Cunha,Eletrodomésticos
+420,Pedro Henrique Pimenta,66,Fonseca de Monteiro,Jogos
+421,Maria Julia Ferreira,64,Freitas do Oeste,Jogos
+422,Miguel Ferreira,23,Câmara da Mata,Eletrodomésticos
+423,Thales Lopes,39,Gomes da Praia,Jogos
+424,Sra. Isadora Pacheco,57,Albuquerque da Serra,Eletrônicos
+425,Antônio Sá,77,Lopes,Livros
+426,Sara Costela,45,Cassiano do Norte,Jogos
+427,Larissa Oliveira,29,Cirino de Abreu,Jogos
+428,Fernando Aparecida,76,Leão Verde,Jogos
+429,Leandro da Cruz,49,Albuquerque do Campo,Livros
+430,Vitor das Neves,49,Pereira,Livros
+431,Carlos Eduardo Santos,53,Pinto,Jogos
+432,Sr. Rhavi Alves,66,Fernandes,Roupas
+433,Marcelo Fernandes,73,Ramos,Roupas
+434,Sra. Ana Cavalcante,70,Cavalcanti,Roupas
+435,Juliana Camargo,71,Vasconcelos,Eletrodomésticos
+436,Luana Marques,30,Marques,Roupas
+437,Pedro Lucas Sá,63,Teixeira,Roupas
+438,José Miguel Porto,63,Vargas,Livros
+439,Sabrina Souza,57,Gonçalves do Sul,Roupas
+440,Lara Rezende,32,Campos Paulista,Eletrodomésticos
+441,Cecilia Cavalcante,53,Silva Paulista,Eletrônicos
+442,Sr. Vitor Gabriel Nogueira,72,Monteiro do Norte,Livros
+443,Benicio da Conceição,22,Rios Paulista,Livros
+444,Cauê Silveira,50,Pacheco,Livros
+445,Isaac Almeida,18,Ramos da Prata,Eletrodomésticos
+446,Pedro Barbosa,56,Mendonça da Serra,Eletrônicos
+447,Gabriel da Paz,29,das Neves,Jogos
+448,Anthony Caldeira,41,Duarte,Jogos
+449,Maria Luísa Pastor,48,da Conceição,Eletrodomésticos
+450,Dra. Brenda Pastor,72,Gomes dos Dourados,Jogos
+451,Bento Duarte,24,Monteiro do Oeste,Jogos
+452,Maria Sophia Borges,80,Moura,Eletrodomésticos
+453,Josué Vasconcelos,62,Ramos das Flores,Eletrodomésticos
+454,Sr. João Felipe Azevedo,76,Gonçalves,Eletrodomésticos
+455,Theo Marques,66,Carvalho,Roupas
+456,Josué Marques,60,Camargo,Roupas
+457,Dr. Luiz Henrique Almeida,45,Sampaio,Jogos
+458,Srta. Ayla Garcia,50,Marques,Eletrodomésticos
+459,Cecilia Costela,26,Macedo de Minas,Eletrônicos
+460,Asafe das Neves,59,da Mata da Praia,Eletrodomésticos
+461,Benício Vargas,63,Sampaio Grande,Livros
+462,Mariane Porto,27,Duarte de Goiás,Livros
+463,Benício Novais,62,Sousa de Goiás,Jogos
+464,Elisa Aragão,63,Aparecida,Eletrônicos
+465,Raul Barros,71,Pastor,Roupas
+466,Henry Melo,60,Mendonça de Silveira,Eletrônicos
+467,Stella Aparecida,22,da Conceição da Prata,Livros
+468,Dra. Mariane Borges,60,Mendes do Norte,Eletrodomésticos
+469,Diogo Azevedo,61,Novaes,Livros
+470,Daniela Moraes,72,Cavalcanti,Livros
+471,Srta. Ana Beatriz Silveira,57,Cavalcante das Pedras,Livros
+472,Amanda Aragão,71,Oliveira,Eletrodomésticos
+473,Luiza Pacheco,46,Ramos,Roupas
+474,Srta. Gabriela Macedo,21,Barbosa,Jogos
+475,Leandro Caldeira,61,Araújo,Jogos
+476,Noah Ramos,23,Barros,Roupas
+477,Murilo Garcia,48,Martins de Abreu,Livros
+478,Mariane Campos,36,Machado de Moura,Jogos
+479,Lucca Fogaça,76,Aparecida,Eletrônicos
+480,Stephany Fogaça,18,Moreira,Roupas
+481,Maria Isis da Cruz,30,Brito do Sul,Roupas
+482,Dr. Rodrigo Castro,78,Sá,Jogos
+483,Isabella Aparecida,55,Novais de Goiás,Eletrodomésticos
+484,Isis Pires,18,Moraes da Serra,Eletrodomésticos
+485,Nicolas Campos,80,Borges de Pires,Eletrodomésticos
+486,Maria Vitória da Conceição,80,Casa Grande,Roupas
+487,Sr. Brayan Ramos,24,Alves do Amparo,Roupas
+488,Vinicius da Rosa,46,Sales Alegre,Eletrônicos
+489,Camila Nascimento,33,Mendonça dos Dourados,Eletrodomésticos
+490,Valentim da Luz,47,Marques,Eletrônicos
+491,Maya Novais,73,Cirino Verde,Livros
+492,Calebe Silveira,55,Souza,Jogos
+493,Anthony Moura,64,Casa Grande,Jogos
+494,Carolina Teixeira,41,Pires,Livros
+495,Ester das Neves,67,Brito,Jogos
+496,Apollo Lopes,66,Garcia de das Neves,Roupas
+497,Maria Flor da Rosa,44,Moreira,Jogos
+498,Pietro Pinto,33,Ferreira,Eletrodomésticos
+499,Maria da Luz,33,Barros,Jogos
+500,Otávio Carvalho,50,Cirino do Amparo,Jogos
+501,Dr. Yuri Porto,77,Barbosa,Eletrônicos
+502,Ana Vitória Lima,28,Mendes,Eletrodomésticos
+503,Sr. Diego Rios,74,Monteiro de Garcia,Livros
+504,Rael Nascimento,40,Monteiro,Roupas
+505,Cauê Cavalcanti,21,Barros,Eletrônicos
+506,Jade Sampaio,42,Cunha,Eletrônicos
+507,Sr. Heitor Cirino,56,Costa,Eletrônicos
+508,Raquel Vieira,65,da Mota de Goiás,Livros
+509,Cecilia Moraes,19,Brito do Norte,Eletrodomésticos
+510,Antony Rios,57,Camargo Alegre,Eletrônicos
+511,Srta. Stephany Rezende,57,Cavalcanti das Flores,Eletrodomésticos
+512,Lorena Carvalho,50,Leão,Jogos
+513,Dra. Melissa Aragão,71,Caldeira de Pinto,Jogos
+514,Cauã Ferreira,55,Garcia,Livros
+515,Luana Carvalho,23,Barros,Jogos
+516,Juliana Rodrigues,57,Santos Paulista,Livros
+517,Juan Aragão,37,Cassiano de Goiás,Eletrodomésticos
+518,Sr. Bryan Lima,43,Rezende de Caldeira,Livros
+519,Olivia Freitas,72,Casa Grande do Campo,Roupas
+520,Isaac Nunes,72,Borges,Roupas
+521,Marcela Nascimento,42,Carvalho,Eletrônicos
+522,Emanuelly Monteiro,61,Vargas Paulista,Eletrônicos
+523,Larissa Silveira,69,Gomes de Goiás,Eletrodomésticos
+524,Sr. Leonardo Câmara,46,Nogueira,Jogos
+525,Melina Duarte,54,Borges de Marques,Livros
+526,Manuela Ferreira,50,Vargas,Roupas
+527,Benjamim Brito,39,Moura,Roupas
+528,Maria Liz da Mata,48,Pimenta da Prata,Roupas
+529,Pietra Campos,28,Teixeira,Roupas
+530,Leonardo Araújo,38,Ribeiro de das Neves,Eletrônicos
+531,João Miguel Sampaio,42,Sousa,Eletrônicos
+532,Brayan Rezende,52,Silva,Roupas
+533,Lunna Cavalcanti,36,Guerra,Jogos
+534,Ester Lima,63,Macedo das Pedras,Jogos
+535,Eduarda Cavalcanti,64,Azevedo Verde,Eletrônicos
+536,Benjamin Freitas,49,Rezende,Eletrônicos
+537,Hadassa Marques,74,Moura do Sul,Roupas
+538,Manuela Farias,64,Pires,Eletrodomésticos
+539,Stella Jesus,38,Santos do Galho,Livros
+540,Ana Beatriz Ribeiro,21,da Rocha,Jogos
+541,Anthony Gabriel Fernandes,60,Castro da Praia,Roupas
+542,Kaique Camargo,51,Correia,Eletrodomésticos
+543,Srta. Yasmin Teixeira,29,Costa de Novais,Eletrônicos
+544,Catarina Freitas,45,Almeida Verde,Jogos
+545,Lucca Gonçalves,35,Gonçalves,Eletrônicos
+546,Srta. Antonella Casa Grande,58,Macedo de Araújo,Eletrodomésticos
+547,Srta. Ana Júlia Duarte,18,da Paz Paulista,Livros
+548,Sophie Santos,55,Duarte,Jogos
+549,Thales Moura,47,Pacheco dos Dourados,Livros
+550,Vitor Melo,66,Borges de Jesus,Eletrônicos
+551,Maria Clara Farias,21,da Paz da Mata,Jogos
+552,Aylla Oliveira,31,Fonseca,Eletrodomésticos
+553,Ana Beatriz Campos,23,Lopes do Sul,Jogos
+554,Sr. Yan Azevedo,45,Melo,Livros
+555,Sr. Vitor Hugo das Neves,42,Gonçalves,Eletrodomésticos
+556,Rael da Luz,33,Teixeira,Eletrodomésticos
+557,Hellena Moraes,77,Pastor,Eletrônicos
+558,Maria Alice Nogueira,40,Cavalcante,Eletrodomésticos
+559,Isabel Alves,18,Pires,Eletrônicos
+560,Gabriela Sales,75,Cirino,Eletrônicos
+561,Carlos Eduardo Câmara,57,Monteiro,Livros
+562,Léo Novais,76,Machado,Eletrodomésticos
+563,Dra. Maysa Correia,67,da Mota,Jogos
+564,Dra. Ana Sophia Siqueira,18,Câmara,Eletrônicos
+565,Pietro Costa,49,Pereira do Galho,Eletrônicos
+566,João Felipe Teixeira,56,Souza das Flores,Eletrodomésticos
+567,Ravi Lucca Machado,61,Lopes,Roupas
+568,Carlos Eduardo Castro,69,Porto,Roupas
+569,Samuel Teixeira,35,Duarte da Mata,Eletrodomésticos
+570,Gael Henrique Marques,44,Marques de Goiás,Livros
+571,Sr. Bernardo Costela,28,Nunes,Eletrodomésticos
+572,Gael Henrique da Mata,68,Sampaio Grande,Livros
+573,Valentina Cirino,18,Vargas,Eletrodomésticos
+574,João Miguel Sá,58,Pimenta,Eletrônicos
+575,Yuri Costela,47,Dias,Livros
+576,Lucas Gabriel Almeida,23,Souza dos Dourados,Livros
+577,Amanda Silva,31,Viana de Goiás,Roupas
+578,Carlos Eduardo Freitas,48,Correia do Oeste,Jogos
+579,Ana Lívia Silva,70,Albuquerque das Flores,Eletrônicos
+580,Benício Moraes,61,Nunes,Eletrônicos
+581,Sarah Vieira,62,Gomes,Eletrônicos
+582,Ryan Garcia,70,Vasconcelos,Eletrodomésticos
+583,Dra. Maria Eduarda Gomes,33,Cavalcante de Machado,Eletrodomésticos
+584,Lara Brito,79,da Mata de Correia,Livros
+585,Heloísa Andrade,80,Montenegro,Roupas
+586,Pietra Rodrigues,28,Silveira Verde,Eletrônicos
+587,Srta. Beatriz Moraes,80,Montenegro de Siqueira,Livros
+588,Bryan Pacheco,71,Almeida,Roupas
+589,Isaque Moraes,64,Leão,Eletrodomésticos
+590,Maria Júlia Cirino,60,das Neves,Roupas
+591,Alexandre Fogaça,22,Silveira das Pedras,Eletrodomésticos
+592,Caleb Vieira,71,Costa,Jogos
+593,João Guilherme Pacheco,42,Fernandes Verde,Eletrodomésticos
+594,Valentim Rodrigues,42,Duarte,Livros
+595,Melina da Luz,74,Marques de Oliveira,Roupas
+596,Dr. Rael Aragão,75,Martins da Serra,Eletrônicos
+597,Ana Lívia Camargo,66,Mendonça,Eletrônicos
+598,Pedro Lucas Novaes,25,Sales da Prata,Jogos
+599,Sr. Ravy Alves,38,Garcia de Casa Grande,Eletrônicos
+600,Dr. Luigi Caldeira,50,Moura Verde,Roupas
+601,Léo Caldeira,50,Oliveira,Eletrônicos
+602,João Felipe Pacheco,24,Alves de Barros,Livros
+603,Sr. João Pedro Macedo,68,Martins,Jogos
+604,Sr. Isaque Gomes,56,Fernandes do Galho,Jogos
+605,Srta. Bruna Freitas,37,da Rosa,Jogos
+606,Ágatha Duarte,42,Santos,Livros
+607,Eloah Costa,65,Cardoso,Roupas
+608,Maria Eduarda Câmara,76,Sousa,Jogos
+609,Bryan Moraes,21,da Conceição,Jogos
+610,Maria Sophia Camargo,53,Castro da Prata,Jogos
+611,Diogo Carvalho,23,Mendonça do Oeste,Jogos
+612,Maysa Campos,22,Costa,Roupas
+613,Dra. Evelyn da Mata,36,Rezende,Livros
+614,Heloisa Garcia,52,Costela da Prata,Eletrônicos
+615,Antônio Silveira,42,Nogueira do Amparo,Eletrônicos
+616,Olívia Machado,68,Ramos da Serra,Eletrônicos
+617,Juliana Sales,47,Sá de Gonçalves,Eletrônicos
+618,Theo da Mata,27,Cassiano de Silveira,Jogos
+619,Isabella Campos,24,da Conceição do Oeste,Eletrônicos
+620,Vitor Hugo Sá,65,Leão Grande,Eletrodomésticos
+621,Agatha Nogueira,43,Porto do Amparo,Eletrônicos
+622,Bella Garcia,69,Sampaio do Norte,Roupas
+623,Laura Garcia,33,Teixeira da Prata,Jogos
+624,Yuri Cavalcanti,79,Cassiano do Galho,Eletrônicos
+625,Yan da Rosa,61,Melo,Roupas
+626,Fernanda Fernandes,42,Viana dos Dourados,Eletrodomésticos
+627,Sra. Lara Monteiro,40,Rodrigues,Jogos
+628,Isabelly Fernandes,80,da Mota,Jogos
+629,Arthur Gabriel Pacheco,63,da Cunha,Eletrônicos
+630,Pedro Lucas Sampaio,62,Rocha Alegre,Eletrodomésticos
+631,Vitória Fernandes,41,Rezende,Livros
+632,Isabelly Rezende,33,das Neves de Ribeiro,Roupas
+633,Maya da Mota,57,Nogueira,Eletrodomésticos
+634,Calebe Lima,51,Ferreira,Eletrônicos
+635,Dr. Rael Campos,58,Mendes,Roupas
+636,Dra. Maitê das Neves,40,Lopes da Mata,Livros
+637,Murilo Cardoso,67,Souza,Livros
+638,Cecilia Lima,36,Viana do Galho,Roupas
+639,Sr. João Felipe Gonçalves,68,Melo da Serra,Eletrodomésticos
+640,Maria Eduarda da Mata,53,Sampaio,Eletrônicos
+641,Dr. Antônio Teixeira,44,Fernandes,Jogos
+642,Dra. Camila Montenegro,31,da Rocha,Eletrônicos
+643,Brenda Vieira,25,Lopes,Roupas
+644,Mariane Guerra,47,Moura,Eletrônicos
+645,Sra. Bárbara Fogaça,51,Melo da Serra,Eletrônicos
+646,Ana Laura Vieira,41,Pacheco Paulista,Jogos
+647,Lara Silveira,30,Aparecida das Pedras,Livros
+648,Beatriz Fernandes,61,Vasconcelos do Campo,Livros
+649,Heloísa Abreu,47,Castro do Amparo,Roupas
+650,Hellena Correia,62,Teixeira,Eletrodomésticos
+651,Isaque Almeida,41,Castro,Livros
+652,Alexia Moraes,63,Guerra,Roupas
+653,Rael Nogueira,58,Alves,Livros
+654,João Vitor Pinto,39,da Cruz,Eletrônicos
+655,Mariana Souza,55,das Neves,Jogos
+656,Srta. Ana Liz Melo,36,Novaes das Pedras,Jogos
+657,Anna Liz Ferreira,53,da Rocha de Cavalcante,Jogos
+658,Bernardo Leão,39,Nascimento do Sul,Eletrônicos
+659,Bárbara Cunha,21,Marques do Campo,Roupas
+660,Dra. Maria Fernanda da Luz,31,Porto de Nascimento,Jogos
+661,Mathias Rios,55,Aragão,Eletrônicos
+662,Kaique Cassiano,37,Lopes,Jogos
+663,Henry Gabriel Siqueira,45,Fernandes de Minas,Roupas
+664,Alexia Ramos,78,Garcia de Pires,Eletrodomésticos
+665,Srta. Isabella Caldeira,37,Siqueira,Eletrônicos
+666,Ana Lívia Vasconcelos,28,da Mata da Serra,Eletrônicos
+667,Melissa Gomes,30,Jesus,Livros
+668,Srta. Isadora da Mata,54,Costa,Eletrodomésticos
+669,Pedro Henrique Leão,53,Casa Grande,Eletrônicos
+670,Danilo Cardoso,24,Barros de Moreira,Jogos
+671,Davi Lucca Monteiro,22,Porto,Eletrodomésticos
+672,Thomas Costa,60,Araújo de Macedo,Jogos
+673,Dra. Sarah Ramos,42,Martins,Eletrodomésticos
+674,Raquel Cavalcante,64,Cunha da Prata,Eletrônicos
+675,João Guilherme Peixoto,54,Silva,Eletrônicos
+676,Leonardo Martins,24,Alves,Jogos
+677,Heloisa Dias,49,da Rosa do Norte,Jogos
+678,Aylla Câmara,68,da Mata de Goiás,Jogos
+679,Heloisa Macedo,68,Nogueira Paulista,Eletrônicos
+680,Carlos Eduardo da Cunha,27,Pacheco,Jogos
+681,Mateus Sampaio,79,Novaes,Roupas
+682,Eduardo Cardoso,24,da Rosa,Eletrodomésticos
+683,Nicolas Pastor,66,Barbosa Grande,Livros
+684,Agatha Câmara,23,Santos de Rocha,Eletrodomésticos
+685,Ana Costela,58,Ribeiro das Flores,Eletrodomésticos
+686,Maria Luiza Martins,76,Gonçalves de das Neves,Eletrodomésticos
+687,Luiz Felipe Fonseca,45,Fogaça do Norte,Eletrodomésticos
+688,Alana da Paz,77,Albuquerque,Jogos
+689,Dr. Guilherme Moreira,38,Sousa do Oeste,Jogos
+690,Bernardo da Luz,64,Lopes de Pires,Eletrodomésticos
+691,João Guilherme Carvalho,33,Macedo,Jogos
+692,Bárbara Moreira,68,Sá,Livros
+693,Alexia Rezende,68,Sales,Jogos
+694,Luiz Fernando da Mota,69,Cavalcante,Livros
+695,Srta. Isadora Costela,26,Barbosa,Jogos
+696,Ana Liz Oliveira,74,Mendonça,Jogos
+697,Cecilia Ribeiro,32,Melo,Eletrodomésticos
+698,Daniela Borges,44,Montenegro,Jogos
+699,Maria Isis das Neves,39,Moraes,Jogos
+700,Ana Carolina Ferreira,55,Moreira da Prata,Jogos
+701,Maria Eduarda Peixoto,36,Almeida da Serra,Roupas
+702,Josué Gonçalves,30,Montenegro,Eletrônicos
+703,Joana Rezende,37,Costa,Eletrodomésticos
+704,Aylla Santos,55,da Luz Alegre,Eletrodomésticos
+705,Gael Henrique Campos,18,Almeida Paulista,Eletrônicos
+706,Ana Beatriz Rezende,37,Fogaça de Borges,Eletrodomésticos
+707,Clara Cassiano,52,Almeida da Serra,Livros
+708,Mariana Caldeira,61,Moura das Pedras,Eletrodomésticos
+709,José Cardoso,39,Ribeiro,Jogos
+710,Amanda Casa Grande,39,Mendes,Eletrônicos
+711,Henry Montenegro,79,da Costa,Jogos
+712,André Cavalcanti,77,Costela da Serra,Livros
+713,Liam Alves,46,Costa,Jogos
+714,Dr. Joaquim Azevedo,46,Silveira de Montenegro,Eletrodomésticos
+715,João Gabriel Silveira,77,Castro do Oeste,Eletrônicos
+716,Ana Carolina da Rocha,74,Azevedo,Jogos
+717,Sofia Andrade,54,Lopes,Jogos
+718,Mirella Cavalcante,65,Souza,Eletrodomésticos
+719,Nicole Andrade,76,da Rosa,Livros
+720,Liz Borges,22,Sampaio do Sul,Jogos
+721,Luan Nunes,29,Costela,Livros
+722,José da Conceição,73,Pimenta,Eletrodomésticos
+723,Luiza Abreu,52,Correia de Gonçalves,Livros
+724,Maria Farias,18,Araújo de Camargo,Eletrônicos
+725,Brenda Costa,32,Farias,Eletrodomésticos
+726,Dra. Ana Beatriz Porto,62,Sales Paulista,Eletrônicos
+727,Ayla Carvalho,73,Jesus dos Dourados,Jogos
+728,Elisa Campos,68,Nunes do Galho,Eletrodomésticos
+729,Sr. Pietro Cardoso,57,Cavalcanti Alegre,Eletrônicos
+730,Maria Liz Mendonça,39,Fonseca,Roupas
+731,Cauã Nunes,18,Macedo de Carvalho,Livros
+732,Yago Azevedo,26,Mendonça,Eletrônicos
+733,Thiago Moura,78,Ferreira,Eletrodomésticos
+734,Enzo Pinto,41,Câmara,Jogos
+735,Maria Júlia Carvalho,63,Cassiano de Ribeiro,Eletrônicos
+736,Murilo Oliveira,26,Costa,Roupas
+737,Antony Vargas,66,Ferreira da Serra,Roupas
+738,Manuella Monteiro,46,Correia do Campo,Livros
+739,Vitória Monteiro,70,Camargo do Oeste,Eletrodomésticos
+740,Davi Rocha,22,Rodrigues,Jogos
+741,Guilherme Guerra,54,Leão de Goiás,Roupas
+742,Luan Sampaio,35,Pinto,Roupas
+743,Ayla Rodrigues,32,Souza Verde,Jogos
+744,Heloisa Nascimento,19,Mendonça de Ramos,Eletrônicos
+745,Dra. Luara Sousa,19,Cunha do Norte,Roupas
+746,Théo da Mota,18,Azevedo,Livros
+747,Dr. João Miguel Rios,19,Montenegro das Pedras,Livros
+748,Ana Laura Mendes,39,Brito das Flores,Roupas
+749,Yago da Rocha,64,Araújo de Abreu,Livros
+750,Dr. Davi Lucca Machado,70,Siqueira da Serra,Roupas
+751,Sr. Vinicius Sousa,61,Albuquerque,Livros
+752,Caleb Cavalcanti,50,Moura,Eletrônicos
+753,Maria Luísa Sá,69,Casa Grande,Jogos
+754,João Montenegro,22,Moreira,Jogos
+755,Levi Machado,47,Cavalcanti,Eletrônicos
+756,Beatriz Novaes,20,Melo,Livros
+757,Maitê Moreira,22,Vasconcelos,Livros
+758,Sr. Cauã Monteiro,76,Moraes,Eletrônicos
+759,Elisa da Paz,34,Rios Grande,Roupas
+760,Vinicius Caldeira,71,Nogueira da Mata,Eletrônicos
+761,Cauã Castro,25,Teixeira,Jogos
+762,Mariana Viana,23,Lima do Sul,Eletrônicos
+763,Ana Beatriz Oliveira,45,Fonseca das Flores,Eletrônicos
+764,Ryan Campos,46,Almeida da Prata,Roupas
+765,Sra. Ester Borges,69,Sampaio do Norte,Jogos
+766,Joana Porto,67,Rios da Praia,Eletrodomésticos
+767,Valentina Moura,31,Costela de Pinto,Roupas
+768,João Pedro Almeida,42,Moura do Galho,Roupas
+769,Helena Nascimento,19,Lima,Roupas
+770,Isaac Costela,45,Dias,Eletrônicos
+771,Augusto Cunha,25,Vargas da Mata,Eletrônicos
+772,Dra. Aurora Siqueira,70,Ribeiro da Serra,Roupas
+773,Srta. Maitê Fogaça,80,Albuquerque,Roupas
+774,Vitor Hugo Moura,25,Azevedo,Eletrônicos
+775,Bento Castro,61,das Neves,Livros
+776,Maria Julia Andrade,60,Dias,Roupas
+777,Rodrigo Fonseca,34,Macedo,Jogos
+778,André Vargas,25,Guerra da Mata,Jogos
+779,Sabrina Cavalcante,22,Carvalho da Mata,Livros
+780,Isaque da Cruz,77,Silva,Livros
+781,Yago Nunes,31,Peixoto de Machado,Eletrodomésticos
+782,Fernando Freitas,44,Teixeira de Machado,Roupas
+783,Ryan Pacheco,49,Freitas das Pedras,Livros
+784,Ian Rodrigues,64,Machado da Serra,Roupas
+785,Clara Vieira,52,Casa Grande dos Dourados,Eletrodomésticos
+786,Sr. Heitor Siqueira,57,Casa Grande,Eletrônicos
+787,Dr. Ravi Lucca Pinto,50,Rodrigues,Jogos
+788,Lorenzo Freitas,37,Camargo dos Dourados,Eletrônicos
+789,Davi Miguel da Rocha,39,Monteiro,Livros
+790,Henry Gabriel Oliveira,28,Ramos,Eletrodomésticos
+791,Sra. Heloisa Ferreira,49,Barbosa de Fonseca,Eletrodomésticos
+792,Ravi Gonçalves,72,Casa Grande do Norte,Roupas
+793,Enzo Carvalho,62,Caldeira,Jogos
+794,Alexandre Caldeira,68,Novais,Livros
+795,Enzo Gabriel Guerra,27,Barbosa,Jogos
+796,Melissa Duarte,71,Pires,Eletrodomésticos
+797,Joaquim da Cruz,67,Vasconcelos,Livros
+798,Marcelo Santos,74,das Neves,Eletrônicos
+799,Fernando Costela,77,Pacheco,Livros
+800,Enzo Gabriel Rios,69,Sales do Norte,Eletrodomésticos
+801,Bryan Pacheco,30,Jesus,Eletrônicos
+802,Nathan Melo,53,das Neves dos Dourados,Livros
+803,Ayla da Cunha,23,Carvalho de Jesus,Eletrodomésticos
+804,Mirella Mendonça,38,Sales,Eletrônicos
+805,Mariah Rodrigues,71,da Cruz de Goiás,Eletrônicos
+806,Sra. Isabela da Mata,57,Câmara dos Dourados,Roupas
+807,Dr. Theodoro Cavalcanti,51,Porto,Livros
+808,Mateus da Rosa,19,Guerra do Norte,Roupas
+809,Agatha Gonçalves,70,Cavalcanti da Praia,Eletrônicos
+810,Lucca Dias,53,Sousa de Pinto,Roupas
+811,Maria Alves,19,Pimenta,Eletrodomésticos
+812,Ana Julia das Neves,63,Oliveira,Roupas
+813,Ana Lívia Castro,39,Fonseca de Oliveira,Jogos
+814,Camila Sampaio,64,Cavalcante,Jogos
+815,Sofia Cavalcante,24,Gomes,Eletrodomésticos
+816,Dr. Pedro Gonçalves,33,Azevedo,Eletrônicos
+817,Mariana Oliveira,34,Alves de Vargas,Eletrônicos
+818,Yago Nogueira,79,Vasconcelos,Eletrônicos
+819,Laís Monteiro,48,Freitas,Jogos
+820,José Pedro Vasconcelos,36,da Mata,Eletrodomésticos
+821,Alice da Cruz,44,Fogaça,Eletrodomésticos
+822,Isabelly Sá,51,Rios,Livros
+823,Milena Abreu,71,Pastor Verde,Jogos
+824,Antonella Correia,18,Sousa,Livros
+825,Dr. Lucas Aparecida,59,Moraes Paulista,Jogos
+826,Luana Albuquerque,61,Aragão,Livros
+827,Maria Helena da Cruz,75,Pinto,Eletrodomésticos
+828,Heloisa Farias,54,Marques,Jogos
+829,Dante Camargo,45,Santos de Goiás,Eletrodomésticos
+830,Lívia Andrade,19,Ferreira,Livros
+831,Catarina Fonseca,34,Martins,Roupas
+832,Valentina Sousa,73,Montenegro das Pedras,Jogos
+833,Ágatha Sales,77,Sales,Eletrodomésticos
+834,Joaquim Siqueira,79,da Mata dos Dourados,Eletrodomésticos
+835,Maitê Leão,67,Vieira,Eletrônicos
+836,Ágatha Freitas,37,Azevedo das Flores,Jogos
+837,Benício Silveira,46,Araújo,Eletrodomésticos
+838,Lunna Porto,18,Vasconcelos dos Dourados,Eletrônicos
+839,Ana Beatriz Pimenta,28,Nogueira,Roupas
+840,Calebe Montenegro,25,Oliveira,Roupas
+841,Ester Barros,29,Sales,Roupas
+842,Eloá Melo,75,Fogaça,Jogos
+843,Maria Sophia Gonçalves,25,Montenegro Verde,Eletrodomésticos
+844,Ravy Almeida,34,Carvalho,Livros
+845,Dr. Gustavo Melo,78,Rodrigues do Sul,Livros
+846,Hellena Sales,41,da Mota Grande,Jogos
+847,Natália Castro,37,Fogaça do Sul,Jogos
+848,Alexandre Machado,77,Câmara,Livros
+849,Thomas Cardoso,21,Ferreira,Eletrônicos
+850,Gael Caldeira,69,Sales,Roupas
+851,Gustavo Moura,24,Oliveira de da Mota,Jogos
+852,Felipe Duarte,58,da Costa,Eletrodomésticos
+853,Cecília Aparecida,45,Lima,Eletrônicos
+854,Sra. Maria Liz Teixeira,78,Peixoto da Mata,Eletrônicos
+855,Sra. Catarina Pereira,50,Martins da Prata,Jogos
+856,Matheus Rodrigues,27,Cassiano,Roupas
+857,Bryan Siqueira,72,Cassiano,Eletrônicos
+858,Luan Aparecida,74,Pastor,Eletrodomésticos
+859,Ester Brito,36,Novaes do Oeste,Livros
+860,Maria Júlia Melo,38,Gomes,Roupas
+861,Marina Cardoso,21,Machado,Eletrônicos
+862,Sra. Ana Sales,57,Rios,Eletrodomésticos
+863,Yago Sá,80,Jesus,Roupas
+864,Rodrigo Cirino,58,Vieira,Eletrodomésticos
+865,Vinícius Nascimento,21,da Cunha,Eletrodomésticos
+866,Lucca Cavalcanti,53,Cassiano Verde,Roupas
+867,Theodoro Lopes,31,da Conceição,Roupas
+868,João Miguel Borges,38,Pereira do Galho,Jogos
+869,Alexia Mendes,48,Almeida da Mata,Eletrodomésticos
+870,Diogo Vargas,68,Dias do Galho,Jogos
+871,Dante Teixeira,47,Pimenta de Goiás,Livros
+872,Maria Eduarda da Cruz,49,Oliveira das Flores,Eletrônicos
+873,Ana Fernandes,34,Monteiro do Amparo,Jogos
+874,Gael Sousa,53,Duarte,Roupas
+875,Calebe Ribeiro,77,Pires,Jogos
+876,Davi Câmara,54,Sales,Livros
+877,Arthur Gabriel Melo,29,Sampaio da Prata,Roupas
+878,Marcos Vinicius Siqueira,60,Almeida,Livros
+879,Bianca Pinto,23,Campos,Eletrônicos
+880,Júlia Silva,58,da Rosa das Pedras,Livros
+881,Ana Cecília Lima,49,Câmara,Eletrodomésticos
+882,João Miguel Costela,71,Ribeiro,Jogos
+883,Sr. Lucas Nunes,32,Machado de Rios,Jogos
+884,Sofia Pires,60,Novais,Livros
+885,Daniela Lima,32,da Mata do Amparo,Livros
+886,Fernando da Rosa,55,Carvalho,Eletrodomésticos
+887,Oliver Dias,40,Sousa dos Dourados,Roupas
+888,Maria Luísa Pastor,50,Viana das Flores,Roupas
+889,Sabrina Santos,49,Cunha Alegre,Jogos
+890,Theodoro Lima,23,Novais,Roupas
+891,Fernanda Montenegro,74,Siqueira da Serra,Eletrodomésticos
+892,Luna Machado,68,Santos,Eletrônicos
+893,Julia Silva,21,Araújo do Galho,Jogos
+894,Pedro Henrique Gomes,46,Farias da Praia,Livros
+895,Yago Cavalcanti,25,Pereira,Jogos
+896,Sra. Carolina Albuquerque,62,Freitas,Livros
+897,Maria Alice Alves,57,Porto do Amparo,Eletrodomésticos
+898,Augusto Pereira,43,Ramos,Eletrônicos
+899,Caleb Câmara,59,Gomes de Albuquerque,Eletrônicos
+900,Maria Isis Lopes,62,Ribeiro,Eletrodomésticos
+901,Vinicius Costela,25,Moreira,Roupas
+902,Dra. Natália Sousa,71,da Rosa,Jogos
+903,Letícia Andrade,65,Caldeira,Roupas
+904,Thiago Teixeira,57,Garcia de Monteiro,Roupas
+905,Ana Vitória Abreu,78,Siqueira da Prata,Jogos
+906,Ravi Lucca Borges,68,Marques das Pedras,Jogos
+907,Pedro Henrique Mendonça,28,Cassiano Paulista,Eletrodomésticos
+908,Sophia Moura,33,Nascimento,Livros
+909,Ana Julia Pereira,68,Leão Grande,Roupas
+910,Catarina Casa Grande,48,Freitas de Minas,Eletrônicos
+911,Levi Camargo,65,Ribeiro da Mata,Eletrodomésticos
+912,Bryan Souza,58,Camargo do Norte,Livros
+913,Catarina Pimenta,37,Ribeiro,Jogos
+914,Sra. Aylla da Conceição,39,Nascimento de Rodrigues,Jogos
+915,Dr. Juan Machado,72,da Costa,Eletrodomésticos
+916,Antony Rodrigues,53,Ribeiro,Eletrodomésticos
+917,Luiz Henrique Peixoto,42,Gomes de Abreu,Roupas
+918,Sr. João Felipe Rios,48,Ferreira de Freitas,Roupas
+919,Calebe Teixeira,65,Pires do Galho,Eletrodomésticos
+920,Vinicius Sousa,44,Garcia,Livros
+921,Ana Liz Cassiano,65,Ramos,Eletrônicos
+922,Rafaela Guerra,19,Fonseca de Fogaça,Jogos
+923,Danilo Rios,56,Sales,Roupas
+924,Sarah Cunha,25,Mendonça,Eletrodomésticos
+925,Miguel Pastor,30,Peixoto,Livros
+926,Sr. João Gabriel Silveira,51,Pinto,Livros
+927,Diego Casa Grande,73,Teixeira,Roupas
+928,Davi Lucca Ramos,26,Moura,Roupas
+929,Sara Mendes,21,Viana de Silva,Eletrônicos
+930,Mariane Lopes,24,Rodrigues Verde,Eletrodomésticos
+931,Otávio Aragão,30,Barros,Jogos
+932,Pedro Henrique Carvalho,31,Sampaio,Eletrônicos
+933,Breno Barros,34,Ferreira da Serra,Jogos
+934,Samuel Teixeira,78,Aragão,Jogos
+935,Caroline Castro,62,Garcia,Jogos
+936,Theodoro Cirino,26,Nascimento da Mata,Livros
+937,Srta. Maria Alice Barros,40,Castro Grande,Roupas
+938,Anna Liz Fernandes,37,Jesus,Jogos
+939,Bianca Cirino,58,Melo,Livros
+940,Isabelly da Mata,30,Duarte dos Dourados,Jogos
+941,Ágatha Campos,50,Santos de Santos,Livros
+942,Isabel Cardoso,41,Macedo da Mata,Jogos
+943,Valentina Castro,65,Pacheco do Galho,Jogos
+944,Henry Gabriel Brito,24,Moura,Roupas
+945,Sr. Otávio Garcia,67,Nunes,Livros
+946,Maria Flor da Cruz,76,Aragão,Eletrônicos
+947,Dr. Apollo da Conceição,62,Martins de Moreira,Roupas
+948,Oliver Siqueira,72,Marques da Praia,Jogos
+949,Ana Júlia Pinto,32,da Costa Verde,Eletrodomésticos
+950,Apollo Nascimento,57,Almeida do Sul,Roupas
+951,Kaique Teixeira,30,Alves,Jogos
+952,Sr. Raul Cardoso,34,Fogaça,Roupas
+953,Dante Silva,41,Dias,Livros
+954,Bryan Pereira,34,Novaes,Eletrodomésticos
+955,Otávio Cardoso,51,Machado de Goiás,Eletrônicos
+956,Natália Azevedo,39,Nogueira,Jogos
+957,Srta. Sara Sampaio,49,Andrade,Eletrônicos
+958,Melina Casa Grande,32,Montenegro da Mata,Eletrônicos
+959,Mateus Azevedo,78,Dias do Sul,Roupas
+960,Lunna Campos,69,Brito de Gomes,Livros
+961,Srta. Mariane Monteiro,41,Mendes,Roupas
+962,Evelyn Cassiano,43,Pastor do Amparo,Eletrodomésticos
+963,Mariana Campos,74,Pimenta Alegre,Eletrodomésticos
+964,Alice da Mata,40,Fernandes das Flores,Roupas
+965,Sra. Ana Laura Correia,48,Porto,Roupas
+966,Maria Luísa Farias,27,Costa do Galho,Livros
+967,Esther Machado,19,Machado,Livros
+968,Vinícius Moura,28,Camargo Alegre,Jogos
+969,Maria Helena Dias,27,Machado de Oliveira,Jogos
+970,Sr. Alexandre Novais,26,Alves de Correia,Roupas
+971,Gustavo Moraes,18,Gonçalves das Pedras,Eletrônicos
+972,Ana Luiza Moraes,59,Aparecida das Flores,Livros
+973,Srta. Sophie Freitas,36,da Mata,Livros
+974,Ana Carolina Gomes,74,Borges do Sul,Roupas
+975,Gael Henrique Albuquerque,28,Borges de Minas,Jogos
+976,Marina Monteiro,23,Sousa da Praia,Roupas
+977,Dra. Maria Isis Pires,27,Pastor de Sá,Livros
+978,Bruno Marques,46,Peixoto,Eletrônicos
+979,Isis Gomes,80,Farias da Serra,Roupas
+980,Sra. Stephany Sales,40,Viana,Livros
+981,João Gabriel Castro,49,Guerra da Prata,Eletrodomésticos
+982,Erick Cunha,48,Cavalcanti,Roupas
+983,Sr. Felipe da Rosa,20,Rezende,Eletrodomésticos
+984,João Gabriel Caldeira,74,da Costa,Livros
+985,Helena Casa Grande,67,Cardoso,Eletrodomésticos
+986,Sr. Joaquim Freitas,29,Guerra Alegre,Livros
+987,Enzo Gabriel Correia,27,Sales de Costa,Jogos
+988,Maria Fernanda Rezende,57,Novais de Rios,Jogos
+989,Lorenzo Gonçalves,36,Lopes de Sampaio,Eletrônicos
+990,Elisa Costa,50,Porto da Serra,Eletrônicos
+991,Augusto Pimenta,64,Fonseca,Livros
+992,Clara Pereira,77,Azevedo,Roupas
+993,Dr. Vitor Gabriel da Cruz,32,Pinto dos Dourados,Eletrônicos
+994,Dra. Manuela Barros,57,Moreira da Serra,Livros
+995,Levi Vieira,29,Porto,Jogos
+996,Diego Almeida,80,Albuquerque Alegre,Jogos
+997,Stella Albuquerque,50,Peixoto dos Dourados,Eletrônicos
+998,Dr. Luiz Gustavo Andrade,29,Câmara,Livros
+999,Maya Cunha,45,Correia,Roupas
+1000,Maria Sophia Vieira,30,Leão,Livros
