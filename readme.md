@@ -23,7 +23,7 @@ Você recebeu dois datasets no formato CSV:
 2. **Limpeza e Tratamento dos Dados**
    - **Limpeza dos Dados**:
      - Remova linhas duplicadas.
-     - Trate os valores ausentes preenchendo-os com uma abordagem adequada (média, mediana ou categorização "indefinida", conforme o campo).
+     - Trate os valores ausentes, se houver, preenchendo-os com uma abordagem adequada (média, mediana ou categorização "indefinida", conforme o campo).
    - **Conversão de Tipos**:
      - Verifique e converta, se necessário, os tipos de dados para garantir que estejam no formato correto (e.g., datas como datetime, valores numéricos como float).
    - **Enriquecimento dos Dados**:
