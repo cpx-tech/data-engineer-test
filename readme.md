@@ -1,4 +1,4 @@
-# Teste para Engenheiro de Dados Pleno
+# Teste para Analista de Dados Pleno
 
 ## Objetivo
 Avaliar as habilidades do candidato em processar, manipular e preparar dados usando Python e criar visualizações interativas e informativas no Power BI.
